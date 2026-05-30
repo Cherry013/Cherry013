@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Software+Developer;Python+%7C+Django+%7C+Machine+Learning;Building+Projects+That+Solve+Problems;Always+Learning+Something+New" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Cherry013&label=Profile+Views&style=for-the-badge" />
 
 </div>
 
@@ -141,9 +141,9 @@ REST APIs and lightweight backend services built using Flask.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cherry013&show_icons=true&rank_icon=github&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cherry013&layout=compact&hide_border=true"/>
 
 </div>
 
@@ -153,7 +153,7 @@ REST APIs and lightweight backend services built using Flask.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cherry013&hide_border=true" />
 
 </div>
 
@@ -163,7 +163,7 @@ REST APIs and lightweight backend services built using Flask.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cherry013&hide_border=true&area=true" />
 
 </div>
 
@@ -173,7 +173,7 @@ REST APIs and lightweight backend services built using Flask.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Cherry013/Cherry013/output/github-contribution-grid-snake.svg" />
 
 </div>
 
