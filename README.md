@@ -195,12 +195,12 @@ Goals:
 <br />
 <br />
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
+<img src="./assets/build-signal.svg" alt="Custom animated contribution constellation" />
 
 <br />
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&center=true&vCenter=true&width=850&lines=The+heatmap+below+is+not+decoration.;It+is+a+record+of+small%2C+consistent+builds.;Some+days+are+features.+Some+days+are+fixes.+All+days+teach." alt="Animated build signal message" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&center=true&vCenter=true&width=850&lines=My+contributions+render+as+a+signal+map.;Not+a+template.+Not+a+trophy+wall.;Small+builds%2C+connected+over+time." alt="Animated build signal message" />
 
 <br />
 <br />
@@ -224,15 +224,6 @@ Goals:
     </td>
   </tr>
 </table>
-
-<br />
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./dist/ocean-snake.svg" />
-  <img src="./dist/ocean-snake.svg" alt="Animated contribution snake" />
-</picture>
 
 <br />
 <br />
