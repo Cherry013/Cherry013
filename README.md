@@ -181,12 +181,16 @@ Goals:
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cherry013&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cherry013&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+<a href="https://github.com/Cherry013?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20My%20Projects-3A86FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</a>
+<a href="https://github.com/Cherry013">
+  <img src="https://img.shields.io/badge/GitHub-Profile-00C9A7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
 
 <br />
 <br />
