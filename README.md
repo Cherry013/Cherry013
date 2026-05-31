@@ -1,16 +1,38 @@
 <div align="center">
 
-# 👋 Hi, I'm Charan Reddy
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C9A7,50:3A86FF,100:8338EC&text=Charan%20Reddy&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20Machine%20Learning&descAlignY=58&descSize=17" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Software+Developer;Python+%7C+Django+%7C+Machine+Learning;Building+Projects+That+Solve+Problems;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Building+practical+software+solutions;Python+%7C+Django+%7C+Machine+Learning;Backend+Development+%7C+Data+Engineering;Always+learning%2C+always+building" alt="Typing intro" />
 
-<img src="https://komarev.com/ghpvc/?username=Cherry013&label=Profile+Views&style=for-the-badge" />
+<br />
+
+<a href="https://github.com/Cherry013">
+  <img src="https://komarev.com/ghpvc/?username=Cherry013&label=Profile%20Views&style=for-the-badge&color=3A86FF" alt="Profile views" />
+</a>
+<a href="https://github.com/Cherry013?tab=followers">
+  <img src="https://img.shields.io/github/followers/Cherry013?label=Followers&style=for-the-badge&color=00C9A7" alt="GitHub followers" />
+</a>
+<a href="https://github.com/Cherry013">
+  <img src="https://img.shields.io/github/stars/Cherry013?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Stars&color=8338EC" alt="GitHub stars" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 Developer Snapshot
+## About Me
+
+I am **Charan Reddy**, a Computer Science graduate and software developer focused on building useful, practical applications with clean backend logic and data-driven features.
+
+My work started with **Python** and grew into **Django**, **Flask**, **machine learning**, and database-backed web applications. I enjoy turning ideas into working projects, improving them step by step, and learning the engineering habits that make software reliable in the real world.
+
+<br />
+
+<table>
+  <tr>
+    <td width="50%">
+
+### Developer Snapshot
 
 ```yaml
 Name: Charan Reddy
@@ -23,215 +45,219 @@ Current Focus:
   - Django REST Framework
   - Machine Learning
   - Data Engineering
-
-Interests:
-  - Software Engineering
-  - AI & ML
-  - Cloud Technologies
-  - Problem Solving
 ```
 
+  </td>
+  <td width="50%">
+
+### What I Am Building Toward
+
+```yaml
+Goals:
+  - Production-ready Django REST APIs
+  - Stronger system design fundamentals
+  - PySpark and data engineering workflows
+  - AWS and cloud deployment skills
+  - Open source contributions
+```
+
+  </td>
+  </tr>
+</table>
+
 ---
 
-## 💫 About Me
+## Tech Stack
 
-I enjoy building applications that solve real-world problems and continuously improving my development skills.
-
-My journey started with Python and gradually expanded into web development, machine learning, backend engineering, and data-focused technologies.
-
-Currently, I am working on strengthening my backend development and data engineering skills while building practical projects that demonstrate production-level concepts.
-
----
-
-## 🛠️ Tech Stack
+<div align="center">
 
 ### Languages
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" alt="Languages" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
-</p>
+### Backend, Web & ML
+<img src="https://skillicons.dev/icons?i=django,flask,html,css&theme=dark" alt="Backend and web technologies" />
 
-### Backend & Web
+### Databases, Tools & Platforms
+<img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode&theme=dark" alt="Databases and tools" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=django,flask,html,css" />
-</p>
-
-### Database & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode" />
-</p>
-
-### Learning
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,aws" />
-</p>
-
----
-
-## 📈 Skill Progress
-
-```text
-Python                 ████████████████████ 95%
-Django                 █████████████████░░░ 85%
-Machine Learning       ████████████████░░░░ 80%
-Java                   ███████████████░░░░░ 75%
-Data Engineering       ████████████░░░░░░░░ 60%
-Cloud Technologies     ███████░░░░░░░░░░░░░ 35%
-```
-
----
-
-## 🔥 Featured Projects
-
-### 🌿 Plant Species Identification
-
-Machine Learning application that identifies plant species from images using image classification techniques.
-
-**Tech Used**
-
-`Python` `Machine Learning` `OpenCV`
-
----
-
-### 🖼️ Image Classification System
-
-Deep learning project capable of classifying images into multiple categories.
-
-**Tech Used**
-
-`Python` `Deep Learning`
-
----
-
-### 🌐 Django Web Applications
-
-Full-stack web applications with authentication, database integration, and CRUD functionality.
-
-**Tech Used**
-
-`Django` `MySQL` `HTML` `CSS`
-
----
-
-### ⚡ Flask Applications
-
-REST APIs and lightweight backend services built using Flask.
-
-**Tech Used**
-
-`Flask` `Python`
-
----
-
-## 🎯 Current Goals
-
-- Build production-ready Django REST APIs
-- Master PySpark for Data Engineering
-- Learn AWS Cloud Services
-- Contribute to Open Source Projects
-- Improve System Design Knowledge
-- Secure a Software Development Role
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cherry013&show_icons=true&rank_icon=github&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cherry013&layout=compact&hide_border=true"/>
+### Currently Learning
+<img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" alt="Currently learning" />
 
 </div>
 
 ---
 
-## ⚡ Contribution Streak
+## Skill Progress
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cherry013&hide_border=true" />
+| Skill | Progress |
+|---|---:|
+| Python | ███████████████████ 95% |
+| Django | █████████████████░░ 85% |
+| Machine Learning | ████████████████░░░ 80% |
+| Java | ███████████████░░░░ 75% |
+| Data Engineering | ████████████░░░░░░░ 60% |
+| Cloud Technologies | ███████░░░░░░░░░░░░ 35% |
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Plant Species Identification</h3>
+      <p>Machine learning application that identifies plant species from images using image classification techniques.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Image Classification System</h3>
+      <p>Deep learning project designed to classify images into multiple categories with a model-focused workflow.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Deep%20Learning-8338EC?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Django Web Applications</h3>
+      <p>Full-stack web applications with authentication, database integration, CRUD features, and clean backend structure.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Flask Applications</h3>
+      <p>REST APIs and lightweight backend services built with Flask and Python for simple, focused application logic.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Current Roadmap
+
+<table>
+  <tr>
+    <td>Build production-ready Django REST APIs</td>
+    <td>In progress</td>
+  </tr>
+  <tr>
+    <td>Master PySpark for data engineering</td>
+    <td>Learning</td>
+  </tr>
+  <tr>
+    <td>Learn AWS cloud services</td>
+    <td>Learning</td>
+  </tr>
+  <tr>
+    <td>Contribute to open source projects</td>
+    <td>Goal</td>
+  </tr>
+  <tr>
+    <td>Improve system design knowledge</td>
+    <td>In progress</td>
+  </tr>
+  <tr>
+    <td>Secure a software development role</td>
+    <td>Primary goal</td>
+  </tr>
+</table>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cherry013&hide_border=true&area=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cherry013&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cherry013&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+
+<br />
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cherry013&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+
+<br />
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cherry013&hide_border=true&area=true&theme=tokyo-night" alt="Contribution graph" />
 
 </div>
 
 ---
 
-## 🐍 Snake Eating My Contributions
+## Achievements
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Cherry013/Cherry013/output/github-contribution-grid-snake.svg" />
+| Achievement | Status |
+|---|---|
+| B.Tech in Computer Science | Completed |
+| Python Certification | Completed |
+| Java Certification | Completed |
+| Salesforce Internship | Completed |
+| Academic and Personal Projects | Built |
 
 </div>
 
 ---
 
-## 🏆 Achievements
-
-- 🎓 B.Tech in Computer Science
-- 🏅 Python Certification
-- 🏅 Java Certification
-- 🏅 Salesforce Internship
-- 🏗️ Multiple Academic & Personal Projects
-
----
-
-## 📚 Currently Exploring
+## Currently Exploring
 
 ```python
-learning = [
-    "Django REST Framework",
-    "PySpark",
-    "AWS",
-    "Docker",
-    "System Design",
-    "Data Engineering"
-]
+learning = {
+    "backend": ["Django REST Framework", "API design", "Authentication"],
+    "data": ["PySpark", "Data Engineering", "ETL workflows"],
+    "cloud": ["AWS", "Docker", "Deployment basics"],
+    "engineering": ["System Design", "Clean Code", "Open Source"]
+}
 ```
 
 ---
 
-## 🤝 Let's Connect
+## Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Cherry013">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://img.shields.io/badge/GitHub-Cherry013-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
 <a href="https://www.linkedin.com/in/charan-reddy-dnvcr17503/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Charan%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
 
 ---
 
-## 💭 Developer Philosophy
-
-```text
-Learn → Build → Fail → Improve → Repeat
-```
-
----
+## Developer Philosophy
 
 <div align="center">
 
-### Thanks for visiting my profile 🚀
+```text
+Learn -> Build -> Fail -> Improve -> Repeat
+```
 
-*"Great software is built one commit at a time."*
+### Thanks for visiting my profile
+
+**Great software is built one commit at a time.**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8338EC,50:3A86FF,100:00C9A7" />
