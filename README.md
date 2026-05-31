@@ -9,11 +9,11 @@
 <a href="https://github.com/Cherry013">
   <img src="https://komarev.com/ghpvc/?username=Cherry013&label=Profile%20Views&style=for-the-badge&color=3A86FF" alt="Profile views" />
 </a>
-<a href="https://github.com/Cherry013?tab=followers">
-  <img src="https://img.shields.io/github/followers/Cherry013?label=Followers&style=for-the-badge&color=00C9A7" alt="GitHub followers" />
+<a href="https://github.com/Cherry013">
+  <img src="https://img.shields.io/github/followers/Cherry013?label=Follow%20%40Cherry013&style=for-the-badge&logo=github&color=00C9A7&labelColor=111827&cacheSeconds=60" alt="Follow Cherry013 on GitHub" />
 </a>
 <a href="https://github.com/Cherry013">
-  <img src="https://img.shields.io/github/stars/Cherry013?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Stars&color=8338EC" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/stars/Cherry013?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Total%20Stars&logo=github&color=8338EC&labelColor=111827&cacheSeconds=60" alt="GitHub stars" />
 </a>
 
 </div>
@@ -181,7 +181,7 @@ Goals:
 
 ---
 
-## GitHub Activity
+## Contribution Lab
 
 <div align="center">
 
@@ -195,12 +195,21 @@ Goals:
 <br />
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cherry013&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&center=true&vCenter=true&width=850&lines=Every+green+square+is+a+small+promise+kept;Code.+Commit.+Refactor.+Repeat.;Turning+practice+into+proof%2C+one+push+at+a+time" alt="Animated contribution message" />
 
 <br />
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cherry013&hide_border=true&area=true&theme=tokyo-night" alt="Contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cherry013/Cherry013/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cherry013/Cherry013/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Cherry013/Cherry013/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
+</picture>
+
+<br />
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cherry013&hide_border=true&area=true&theme=tokyo-night&custom_title=Contribution%20Heatmap&bg_color=0D1117&color=00C9A7&line=3A86FF&point=FFFFFF&area_color=8338EC" alt="Contribution heatmap" />
 
 </div>
 
