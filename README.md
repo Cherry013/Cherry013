@@ -195,15 +195,43 @@ Goals:
 <br />
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&center=true&vCenter=true&width=850&lines=Every+green+square+is+a+small+promise+kept;Code.+Commit.+Refactor.+Repeat.;Turning+practice+into+proof%2C+one+push+at+a+time" alt="Animated contribution message" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
+
+<br />
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&center=true&vCenter=true&width=850&lines=The+heatmap+below+is+not+decoration.;It+is+a+record+of+small%2C+consistent+builds.;Some+days+are+features.+Some+days+are+fixes.+All+days+teach." alt="Animated build signal message" />
+
+<br />
+<br />
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Build Mode</strong>
+      <br />
+      Backend + ML
+    </td>
+    <td align="center">
+      <strong>Current Loop</strong>
+      <br />
+      Learn -> Ship -> Improve
+    </td>
+    <td align="center">
+      <strong>Profile Signal</strong>
+      <br />
+      Consistency over noise
+    </td>
+  </tr>
+</table>
 
 <br />
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cherry013/Cherry013/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cherry013/Cherry013/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Cherry013/Cherry013/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/ocean-snake.svg" />
+  <img src="./dist/ocean-snake.svg" alt="Animated contribution snake" />
 </picture>
 
 <br />
@@ -267,7 +295,7 @@ learning = {
 Learn -> Build -> Fail -> Improve -> Repeat
 ```
 
-### Thanks for visiting my profile
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&center=true&vCenter=true&width=780&lines=If+the+green+squares+look+quiet%2C+look+closer.;That+is+where+the+practice+lives.;Thanks+for+visiting+my+profile." alt="Closing animated message" />
 
 **Great software is built one commit at a time.**
 
