@@ -8,16 +8,19 @@ on:
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout profile repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Generate 3D contribution calendar
-        uses: yoshi389111/github-profile-3d-contrib@0.9.0
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
@@ -32,7 +35,7 @@ jobs:
             dist/ocean-snake.svg?color_snake=00C9A7&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
 
       - name: Commit generated files
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Generate profile contribution art"
           file_pattern: "profile-3d-contrib/*.svg dist/*.svg"
