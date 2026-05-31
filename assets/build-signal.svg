@@ -1,0 +1,76 @@
+<svg width="920" height="300" viewBox="0 0 920 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Backend build flow</title>
+  <desc id="desc">A labeled software build flow showing learn, design, code, test, ship, and improve.</desc>
+  <style>
+    .panel { fill: #0d1117; }
+    .border { stroke: #263244; }
+    .track { stroke: #263244; stroke-width: 10; stroke-linecap: round; }
+    .flow { stroke: #00c9a7; stroke-width: 10; stroke-linecap: round; stroke-dasharray: 46 24; animation: travel 7s linear infinite; }
+    .card { fill: #111827; stroke: #2f3b52; stroke-width: 1.2; }
+    .card-accent { stroke-width: 3; }
+    .title { fill: #f8fafc; font: 700 18px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 0; }
+    .body { fill: #94a3b8; font: 500 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 0; }
+    .heading { fill: #e5e7eb; font: 700 22px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 0; }
+    .subheading { fill: #94a3b8; font: 500 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 0; }
+    .pulse { transform-origin: center; animation: pulse 2.8s ease-in-out infinite; }
+    .pulse:nth-of-type(2n) { animation-delay: .35s; }
+    .pulse:nth-of-type(3n) { animation-delay: .7s; }
+    @keyframes travel { to { stroke-dashoffset: -140; } }
+    @keyframes pulse {
+      0%, 100% { opacity: .78; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.08); }
+    }
+  </style>
+
+  <rect class="panel" width="920" height="300" rx="18"/>
+  <rect class="border" x="1" y="1" width="918" height="298" rx="17"/>
+  <text class="heading" x="44" y="48">Backend Build Flow</text>
+  <text class="subheading" x="44" y="72">How I turn learning into shipped projects</text>
+
+  <path class="track" d="M90 164H830"/>
+  <path class="flow" d="M90 164H830"/>
+
+  <g class="pulse">
+    <rect class="card card-accent" x="40" y="112" width="118" height="104" rx="10" stroke="#00c9a7"/>
+    <circle cx="99" cy="138" r="12" fill="#00c9a7"/>
+    <text class="title" x="69" y="171">Learn</text>
+    <text class="body" x="62" y="193">problem</text>
+  </g>
+
+  <g class="pulse">
+    <rect class="card card-accent" x="190" y="112" width="118" height="104" rx="10" stroke="#3a86ff"/>
+    <path d="M236 139H262M236 153H252M236 167H266" stroke="#3a86ff" stroke-width="5" stroke-linecap="round"/>
+    <text class="title" x="218" y="171">Design</text>
+    <text class="body" x="220" y="193">logic</text>
+  </g>
+
+  <g class="pulse">
+    <rect class="card card-accent" x="340" y="112" width="118" height="104" rx="10" stroke="#8338ec"/>
+    <path d="M385 148L373 160L385 172M413 148L425 160L413 172" stroke="#8338ec" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="title" x="375" y="171">Code</text>
+    <text class="body" x="369" y="193">feature</text>
+  </g>
+
+  <g class="pulse">
+    <rect class="card card-accent" x="490" y="112" width="118" height="104" rx="10" stroke="#00c9a7"/>
+    <path d="M531 159L546 174L571 143" stroke="#00c9a7" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="title" x="527" y="171">Test</text>
+    <text class="body" x="520" y="193">behavior</text>
+  </g>
+
+  <g class="pulse">
+    <rect class="card card-accent" x="640" y="112" width="118" height="104" rx="10" stroke="#3a86ff"/>
+    <path d="M699 137V173M681 155L699 137L717 155" stroke="#3a86ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="title" x="677" y="171">Ship</text>
+    <text class="body" x="673" y="193">release</text>
+  </g>
+
+  <g class="pulse">
+    <rect class="card card-accent" x="790" y="112" width="90" height="104" rx="10" stroke="#8338ec"/>
+    <path d="M823 146C834 136 853 142 853 159C853 176 830 181 820 166M820 166H835M820 166V181" stroke="#8338ec" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="title" x="802" y="171">Improve</text>
+    <text class="body" x="805" y="193">iterate</text>
+  </g>
+
+  <text class="subheading" x="44" y="258">Python | Django | Flask | ML | Databases | Data Engineering</text>
+</svg>
